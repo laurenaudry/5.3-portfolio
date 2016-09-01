@@ -1,3 +1,10 @@
 /*
   Main Stylesheet
 */
+* {
+  box-sizing: border-box;
+}
+
+.portfolio-main {
+  font-family: helvetica;
+}
