@@ -1,4 +1,4 @@
-# FEE Boilerplate React/Bable/Webpack 
+# FEE Boilerplate React/Bable/Webpack
 
 ## Initial Setup Gotchas with Babel and Webpack
 ### DO NOT DO THESE WHEN STARTING NEW PROJECTS WHEN COPYING THIS REPO
@@ -24,3 +24,18 @@
   - CLI - Command Line Interface - Allows us to write commands in Terminal to execute functions (this is why we use `npm install -g`)
   - Spec - is another word for a file with tests...
   - Spec Helpers - reusable code (functions) for specs...
+
+### todo list
+- [x] index page
+ - [x] link other pages
+ - [x] import other pages
+- [x] blog page
+  - [x] add title
+  - [x] add one warmup post
+- [] projects page
+  - [] have a list of links/articles
+  - [] short description of at least one
+- [] Project detail route
+  - [] detailed content of the project(s) linked
+  - [] please use react-router params to render this correctly!
+- [] Make sure all html content is semantic and valid
