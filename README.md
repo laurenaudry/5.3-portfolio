@@ -32,10 +32,10 @@
 - [x] blog page
   - [x] add title
   - [x] add one warmup post
-- [] projects page
-  - [] have a list of links/articles
-  - [] short description of at least one
-- [] Project detail route
-  - [] detailed content of the project(s) linked
-  - [] please use react-router params to render this correctly!
+- [x] projects page
+  - [x] have a list of links/articles
+  - [x] short description of at least one
+- [x] Project detail route
+  - [x] detailed content of the project(s) linked
+  - [x] please use react-router params to render this correctly!
 - [] Make sure all html content is semantic and valid
